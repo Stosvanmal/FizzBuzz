@@ -45,7 +45,7 @@ namespace FizzBuzz.Web.Controllers
             }
         }
         /// <summary>
-        /// Comprueba concurrencia archivo
+        /// Juego predefinido para ejecutarse N veces
         /// </summary>
         /// <param name="loops">veces de loop</param>
         /// <returns></returns>
